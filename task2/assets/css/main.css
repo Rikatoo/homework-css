@@ -1,0 +1,39 @@
+#header {
+    width: 100%;
+    height: 15px;
+    background-color: blue;
+    margin-bottom: 3px;
+}
+
+#section {
+    width: 100%;
+    display: inline-block;
+}
+
+#leftSection { 
+    float: left;
+    width: 29%;
+    height: 160px;
+    margin-right: 2%;
+    background-color: purple;
+    
+
+}
+
+#rightSection {
+    float:left;
+    width: 69%;
+    height: 160px;
+    background-color: green;
+}
+
+#clear {
+    clear:both;
+}
+
+#footer {
+    width: 100%;
+    height: 15px;
+    background-color: blue;
+    margin-top: 3px;
+}

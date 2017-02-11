@@ -1,0 +1,35 @@
+#header {
+    width: 100%;
+    background-color: cyan;
+    height: 5em;
+    margin: auto;    
+}
+
+#content {
+    width: 80%;
+    height: 8em;
+    background-color: green;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#leftFoot {
+    width: 39%;
+    height: 2em;
+    background-color: purple;
+    float:left;
+    margin-left: 10%;
+    margin-right: 2%;
+}
+
+#rightFoot {
+    width: 39%;
+    height: 2em;
+    background-color: blue;
+    float:left;
+}
+
+#footer {
+    margin: auto;
+}

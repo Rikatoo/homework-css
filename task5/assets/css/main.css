@@ -1,0 +1,53 @@
+#container {
+    width: 585px;
+    margin: auto;
+}
+
+#label {
+    width: 100%;
+    height: 1.5em;
+    background-color: royalblue;
+    border-bottom: 1px solid;
+    border-color: black;
+}
+
+#label h2 {
+    color: white;
+    font-size: 1.3em;
+    margin: 0 1%;
+    font-weight: bolder
+}
+
+#wrapper {
+    width: 98%;
+    padding: 0px 1%;
+}
+
+.articles {
+    width: 100%;
+    border: 1px solid;
+    border-color: green;
+}
+
+#wrapper > h3 {
+    font-weight: bold;
+    margin: 0.8em 0em;
+}
+
+.articles > h3 {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    padding: 0.3em 0.3em;
+    font-size: 0.89em;
+}
+
+.articles > p {
+    padding-left: 1%;
+}
+
+.less {
+    font-size: 0.8em;
+    opacity: 0.5;
+    margin: 0.3em 0;
+}
